@@ -1,4 +1,4 @@
-# Drupal Hyderabad Open Design
+# Open Design for Drupal
 
 Join us at Telegram: telegram.me/drupalhyderabad
 
