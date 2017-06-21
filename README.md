@@ -28,6 +28,7 @@ NOTE: Once you've completed a project please include the source files!
 ## Tag: 
 [Design Needed, Developer Needed, Question, Staff Support Needed]
 ```
+# All the works in the repo are licensed under [CC-BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/) license unless explicitly mentioned.
 
 Note: Because of the way permissions work on this repo, if you can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you. 
 
