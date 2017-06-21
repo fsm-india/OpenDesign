@@ -1,8 +1,8 @@
 # Open Design for Drupal
 
-Join us at Telegram: telegram.me/drupalhyderabad
+Join us at Telegram: telegram.me/drupalindia
 
-Welcome to the Drupal Hyderabad Open Design Repo. Drupal Hyderabad Open Design aims to bring open source principles to Creative Design. Here you can file issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. Don't forget to use the issue template below to make sure you are including all the relevant information!
+Welcome to the Open Design-Drupal Repo. Open Design aims to bring open source principles to Creative Design. Here you can file issues with your design requests for the community design group, find collaborators, or find design tasks to tackle. Don't forget to use the issue template below to make sure you are including all the relevant information!
 
 Anyone can take (or make) a design issue, as long as it is related to Drupal!
 
