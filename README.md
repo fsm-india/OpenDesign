@@ -1,4 +1,4 @@
-# Open Design for Drupal
+# Open Design - Drupal
 
 Join us at Telegram: telegram.me/drupalindia
 
